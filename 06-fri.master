@@ -1,0 +1,81 @@
+﻿<!-- airad.master
+     A simple example of an ASP.NET master document.
+     airad1.aspx is a content document for this document
+     -->
+<%@ Master Language="C#" AutoEventWireup="true" 
+           CodeFile="06-fri.master.cs" Inherits="Razred" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>airad master</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+      span {font-style: italic; font-size: 30;
+            font-weight: bold; color: Blue;}
+    </style>
+    <link rel="stylesheet" href="css/styles.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="css/menu-menu.css" media="screen">
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+            <div class="header">
+                <img id="logoStudis" src="images/7bc61b092c49b44d1b972ec01d339c13.png" alt="StudIS Logo" width="193" height="77" title="" />
+                <h1>Naročila - oprema in drobni inventar</h1>
+                <br />
+                <!-- navigacija -->
+                
+<ul id="menu-bar">
+ <li class="active"><a href="home.apsx">Domov</a></li>
+ <!--
+ <li><a href="#">Products</a>
+  <ul>
+   <li><a href="#">Products Sub Menu 1</a></li>
+   <li><a href="#">Products Sub Menu 2</a></li>
+   <li><a href="#">Products Sub Menu 3</a></li>
+   <li><a href="#">Products Sub Menu 4</a></li>
+  </ul>
+ </li>
+ <li><a href="#">Services</a>
+  <ul>
+   <li><a href="#">Services Sub Menu 1</a></li>
+   <li><a href="#">Services Sub Menu 2</a></li>
+   <li><a href="#">Services Sub Menu 3</a></li>
+   <li><a href="#">Services Sub Menu 4</a></li>
+  </ul>
+ </li>
+ <li><a href="#">About</a></li>
+ -->
+ <li><a href="Podpora.aspx">Podpora</a></li>
+</ul>
+
+                        
+                <br /><br />   
+            </div>
+            <div class="content">
+                <br /><br /><br />    
+            <asp:ContentPlaceHolder id="SemPrideVsebina" runat="server">
+            </asp:ContentPlaceHolder>
+
+            </div>
+            <div class="push"></div>
+        </div>
+        
+        <div class="footer"><footer>
+            <p>About:</p>
+            <p>Avtor: Aljaž Kozina<br>
+            E-mail: <a href="mailto:kozinc@gmail.com"> kozinc@gmail.com</a> </p>
+            <p>Logo STUD<b>IS</b>: <a href="https://studij.fri.uni-lj.si/">http://studij.fri.uni-lj.si/</a></p>
+            <p>&copy; <%: DateTime.Now.Year %> - SP domača naloga</p>
+        </footer></div>  
+        
+    </form>
+
+    
+</body>
+</html>

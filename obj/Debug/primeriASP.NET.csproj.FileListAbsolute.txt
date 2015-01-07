@@ -1,0 +1,23 @@
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\1-timeLeft\bin\1-timeLeft.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\1-timeLeft\bin\1-timeLeft.pdb
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\1-timeLeft\obj\Debug\1-timeLeft.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\1-timeLeft\obj\Debug\1-timeLeft.pdb
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\primeriASP\bin\primeriASP.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\primeriASP\bin\primeriASP.pdb
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\primeriASP\obj\Debug\primeriASP.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\primeriASP.NET\primeriASP\obj\Debug\primeriASP.pdb
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\bin\primeriASP.dll
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\bin\primeriASP.pdb
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\bin\MySql.Data.dll
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\bin\MySql.Data.Entity.dll
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\obj\Debug\primeriASP.dll
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\obj\Debug\primeriASP.pdb
+C:\Users\zoran\Documents\Visual Studio 2012\WebSites\primeriASP\obj\Debug\primeriASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\bin\primeriASP.dll.config
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\bin\primeriASP.dll
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\bin\primeriASP.pdb
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\obj\Debug\primeriASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\obj\Debug\primeriASP.dll
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\obj\Debug\primeriASP.pdb
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\bin\MySql.Data.dll
+C:\Users\Aljaž\Dropbox\3. letnik-AK\SP\Predavanja09-primeri\primeriASP\bin\MySql.Web.dll

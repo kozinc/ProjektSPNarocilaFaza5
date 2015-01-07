@@ -1,0 +1,10 @@
+d:\my documents\visual studio 2010\Projects\1-timeLeft\1-timeLeft\bin\1-timeLeft.dll
+d:\my documents\visual studio 2010\Projects\1-timeLeft\1-timeLeft\bin\1-timeLeft.pdb
+d:\my documents\visual studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\1-timeLeft.dll
+d:\my documents\visual studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\1-timeLeft.pdb
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\1-timeLeft\1-timeLeft\bin\1-timeLeft.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\1-timeLeft\1-timeLeft\bin\1-timeLeft.pdb
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\1-timeLeft.dll
+C:\Users\zoran\Documents\Visual Studio 2010\Projects\1-timeLeft\1-timeLeft\obj\Debug\1-timeLeft.pdb
